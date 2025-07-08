@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-2
+Added Component: Designator=U?(PG-TO220-3_INF)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PG-TO220-3_INF)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PG-TO220-3_INF)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PG-TO220-3_INF)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Pin To Net: NetName=PCHG Pin=U?-1
+Added Pin To Net: NetName=PDSG Pin=U?-1
+Added Pin To Net: NetName=CD Pin=U?-2
+Added Pin To Net: NetName=CD Pin=U?-2
+Added Pin To Net: NetName=BAT+ Pin=U?-3
+Added Pin To Net: NetName=CD Pin=U?-3
+Added Pin To Net: NetName=CD Pin=U?-3
+Added Pin To Net: NetName=PACK+ Pin=U?-3
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 100 pF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 1 µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 1 µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? GRM31MR71E225KA93L
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.022µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 1 µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 0.22µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 1 µF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component C? 100 pF
+Added Member To Class: ClassName=BQ76952_monitor Member=Component J? M20-7820442
+Added Member To Class: ClassName=BQ76952_monitor Member=Component J? M20-7820242
+Added Member To Class: ClassName=BQ76952_monitor Member=Component J? M20-7820242
+Added Member To Class: ClassName=BQ76952_monitor Member=Component J? M20-7820242
+Added Member To Class: ClassName=Nmos Member=Component J? B8B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 10 kOhms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 100 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 10 kOhms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 10 kOhms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 10 kOhms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 10 kOhms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 330 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 100 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 1 kOhms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 330 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 100 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 20 Ohms
+Added Member To Class: ClassName=BQ76952_monitor Member=Component R? 10 kOhms
+Added Member To Class: ClassName=Nmos Member=Component R? 1 kOhms
+Added Member To Class: ClassName=Nmos Member=Component R? 1 kOhms
+Added Member To Class: ClassName=Nmos Member=Component R? 15 mOhms
+Added Member To Class: ClassName=Nmos Member=Component R? 15 mOhms
+Added Member To Class: ClassName=Nmos Member=Component R? 15 mOhms
+Added Member To Class: ClassName=Nmos Member=Component R? 15 mOhms
+Added Member To Class: ClassName=Nmos Member=Component R? 1 kOhms
+Added Member To Class: ClassName=Nmos Member=Component R? 1 kOhms
+Added Member To Class: ClassName=Nmos Member=Component U? IRLZ44NPBF
+Added Member To Class: ClassName=Nmos Member=Component U? IRLZ44NPBF
+Added Member To Class: ClassName=Nmos Member=Component U? IRLZ44NPBF

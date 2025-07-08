@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SDA Pin=J4-3
+Removed Pin From Net: NetName=SCL Pin=J4-4
+Added Pin To Net: NetName=SCL Pin=J4-3
+Added Pin To Net: NetName=SDA Pin=J4-4
+Added Member To Class: ClassName=BQ76952_monitor Member=Component U1 BQ76952PFBR
